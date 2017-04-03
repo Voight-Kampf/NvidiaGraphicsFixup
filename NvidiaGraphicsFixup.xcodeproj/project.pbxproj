@@ -323,10 +323,10 @@
 					"$(PROJECT_DIR)/Lilu.kext/Contents/Resources/Library",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
-				MODULE_NAME = as.vit9696.NvidiaGraphicsFixup;
+				MODULE_NAME = as.lvs1974.NvidiaGraphicsFixup;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.1;
+				MODULE_VERSION = 1.1.1;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -367,10 +367,10 @@
 				);
 				LLVM_LTO = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
-				MODULE_NAME = as.vit9696.NvidiaGraphicsFixup;
+				MODULE_NAME = as.lvs1974.NvidiaGraphicsFixup;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.1;
+				MODULE_VERSION = 1.1.1;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
